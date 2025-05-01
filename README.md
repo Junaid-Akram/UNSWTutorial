@@ -1,4 +1,5 @@
 # hello-world
 Toy repository for Git tutorial.
 This is an example repository for the Git tutoial to UNSW.
-New lines added in Github
+New lines added in Github.
+New lines added locally.
